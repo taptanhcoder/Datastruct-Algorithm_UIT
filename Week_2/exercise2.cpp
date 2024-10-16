@@ -135,6 +135,7 @@ int main() {
             break;
         case 2:
             myQueue.dequeue();
+            myQueue.display();
 
             break;
         case 3:
